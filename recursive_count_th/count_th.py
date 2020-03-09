@@ -20,4 +20,4 @@ print(count_th('ththaath'))
 # If first two letters have 'th'
 # then return word sliced without first two letter
 # Add 1 to call stack each time 'th' is found'
-# Else pop first letter off the word
+# Else pop first letter off the word and continue to call function
